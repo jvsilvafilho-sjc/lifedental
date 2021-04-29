@@ -11,10 +11,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.EntityFrameworkCore.SqlServer;
-using app.webapi.Data;
+using app.WebApi.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace app.webapi
+namespace app.WebApi
 {
     public class Startup
     {

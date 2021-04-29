@@ -5,9 +5,9 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using app.webapi.Data;
+using app.WebApi.Data;
 
-namespace app.webapi.Migrations
+namespace app.WebApi.Migrations
 {
     [DbContext(typeof(DataContext))]
     [Migration("20210429041537_efInicial")]

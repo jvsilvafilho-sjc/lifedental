@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace app.webapi.Migrations
+namespace app.WebApi.Migrations
 {
     public partial class efInicial : Migration
     {
